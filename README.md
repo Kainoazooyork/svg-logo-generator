@@ -6,12 +6,7 @@ https://drive.google.com/file/d/1r_P4FMZ-9Gfm57c7wcLDy6AmySnj-Nx8/view
     
 This is a command line SVG logo generator 
 
-
-   
-    
 ## Table of Contents (Optional)
-    
-If your README is long, add a table of contents to make it easy for users to find what they need.
     
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,7 +15,8 @@ If your README is long, add a table of contents to make it easy for users to fin
     
 ## Installation
     
-npm i
+NPM install
+
 ## Usage
     
 Used to create logo
