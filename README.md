@@ -1,10 +1,10 @@
-# svg-logo-generator
-A command line svg logo generator
+# SVG logo generator
+
 https://drive.google.com/file/d/1r_P4FMZ-9Gfm57c7wcLDy6AmySnj-Nx8/view
 
 ## Description
     
-Generates SVG logo 
+This is a command line SVG logo generator 
 
 
    
@@ -27,7 +27,7 @@ Used to create logo
     
 ## Credits
     
-Me    
+Help in creating this is credited to my tutor, askBCS, google, and my fellow classmates    
 
 ## License
 
