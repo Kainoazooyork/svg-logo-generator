@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1r_P4FMZ-9Gfm57c7wcLDy6AmySnj-Nx8/view
     
 This is a command line SVG logo generator 
 
-## Table of Contents (Optional)
+## Table of Contents 
     
 - [Installation](#installation)
 - [Usage](#usage)
